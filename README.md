@@ -1,11 +1,6 @@
-![](https://github-readme-stats.vercel.app/api?username=DaybreakFang&show_icons=true)
+## Hi there 👋
+### I'm DaybreakFang, a junior frontend Web Developer.
 
-### I'm DaybreakFang
+- 🌱 I’m currently learning everything I have never known before
 
-- 🎓 
-- 🏠 
-- 📖 
-- 📖 
-- 📦 
-
-![](https://github-profile-trophy.vercel.app/?username=DaybreakFang&theme=flat&column=7)
+- 📫 How to reach me: daybreakfang@gmail.com
